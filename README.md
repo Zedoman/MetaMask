@@ -2,7 +2,11 @@
 
 A competitive dApp where users race to submit Ethereum transactions at the optimal gas price using MetaMask SDK, earning rewards for the most efficient transactions.
 
-![GasSprint](https://images.unsplash.com/photo-1639762681057-408e52192e55?w=800&q=80)
+![GasSprint](
+
+https://github.com/user-attachments/assets/4fc3b4dc-43b5-41f8-8a04-a35259bf040d
+
+)
 
 ## Overview
 
